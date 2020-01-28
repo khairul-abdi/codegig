@@ -1,6 +1,6 @@
 # CodeGig
 
-### This app uses
+### This app uses :
 - Node.js
 - Express.js
 - Sequalize (Postgres)
