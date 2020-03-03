@@ -24,8 +24,7 @@ npm run dev
 
 ### Author
 
-Khairul Abdi Dongoran
-(https://github.com/khairul-abdi)
+[Khairul Abdi Dongoran](https://khairul-abdi.github.io/portfolio/ "My Portfolio")
 
 ### Version
 
