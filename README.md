@@ -1,4 +1,4 @@
-# [CodeGig](https://13pz9.sse.codesandbox.io/ "Click To Demo")
+# [CodeGig](https://13pz9.sse.codesandbox.io/ "Live Demo")
 
 ### This app uses :
 - Node.js
