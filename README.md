@@ -3,8 +3,10 @@
 ### This app uses :
 - Node.js
 - Express.js
-- Sequalize (Postgres)
+- Sequalize 
+- Postgres
 - Handlebars.js
+- Body Parser
 
 ## Quick Start
 
